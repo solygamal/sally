@@ -1,0 +1,53 @@
+div{
+    background-color: darkgrey;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    margin: 10px;
+    
+     
+}
+    
+    
+    
+    
+
+    
+    
+
+
+.test{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+
+}
+    
+
+.first{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    
+    
+}
+.second{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+button{
+    
+    
+    background-color: crimson;
+    color: aliceblue;
+    padding: 20px;
+    margin-left: 700px;
+    
+}
+
