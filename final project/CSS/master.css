@@ -1,0 +1,584 @@
+.div1{
+    background-image: url("../shutterstock_277750193.jpeg");
+    
+    
+}
+
+li{
+    
+    display: inline-block;
+    
+}
+a{
+    text-decoration: none;
+    padding: 15px;
+    
+    position: relative;
+    bottom: -80px;
+    left: 1000px;
+    color:white;
+    font-size: 25px;
+    
+}
+a:hover{
+    color: brown;
+}
+.pic{
+    position: relative;
+    bottom: 350px;
+    right: 270px;
+    margin: 300px;
+    padding: 60px;
+    width: 200px;   
+}
+.logo{
+    position: absolute;
+    bottom: 320px;
+    padding: 60px;
+    right: 500px;
+    width: 500px;
+}
+.header{
+    font-size: 80px;
+    color:white;
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    left: 40px;
+    font-size: 60px;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.par{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 450px;
+    left: 60px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+button{
+    position: relative;
+    bottom:450px;
+    left: 690px;
+    padding: 30px 40px 30px 40px;
+    margin: 7px;
+    border-radius: 10px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.but{
+    color: white;
+    background-color: burlywood;
+}
+.but:hover{
+    background-color: white;
+    color: black;
+}
+.div2{
+    background-image: url("../chef-5.png");
+    background-repeat: no-repeat;
+    position: relative;
+    left: 200px;
+    width: 900px;
+    height: 900px;
+       
+}
+
+.title{
+    color: black;
+    font-size: 50px;
+    position: relative;
+    bottom: 700px;
+    left: 780px;
+    font-family: 'Times New Roman', Times, serif;   
+}
+.title2{
+    color:burlywood;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 700px;
+    left: 515px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para{
+    color: gray;
+    
+    position: relative;
+    bottom: 730px;
+    left: 790px;
+    font-weight: 100px;
+    font-family: calc("Dancing Script");
+}
+.icon{
+    position: relative;
+    bottom: 700px;
+    left: 780px;
+    height: 80px;
+    color:burlywood;    
+}
+.icon1{
+    position: relative;
+    bottom: 755px;
+    left: 775px;
+    height: 80px;
+    color:burlywood; 
+}
+.icon2{
+    position: relative;
+    bottom: 800px;
+    left: 780px;
+    height: 80px;
+    color:burlywood; 
+}
+.icon3{
+    position: relative;
+    bottom: 850px;
+    left: 780px;
+    height: 80px;
+    color:burlywood; 
+}
+.para2{
+    position: relative;
+    bottom: 795px;
+    left:600px ;
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+}
+.para3{
+    position: relative;
+    bottom: 840px;
+    left:650px ;
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+}
+.para4{
+    position: relative;
+    bottom: 890px;
+    left:555px ;
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+
+}
+.para6{
+    position: relative;
+    bottom: 940px;
+    left:610px ;
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+}
+.div7{
+    background-color:#f8f8f8;
+    height: 110vh;
+    opacity: 1;   
+}
+.imgs{
+    position: relative;
+    left: 650px;
+    top: -60px;
+    width: 800px;
+    padding: 100px;
+    margin: 80px;
+
+}
+h1{
+    color: hsl(249, 34%, 12%);
+    position: relative;
+    left: -600px;
+    bottom: 900px;
+    font-size: 50px;
+}
+.text{
+    color: hsl(249, 34%, 12%);
+    position: relative;
+    bottom: 900px;
+    left: 48px;
+    font-size: 30px;
+    
+}
+.paragraph{
+    
+    position: relative;
+    left: 20px;
+    bottom: 900px;
+    color:grey;
+    padding: 10px;
+    font-size: 20px;
+   
+}
+
+.ip{
+    color: grey;
+    position: relative;
+    bottom: 890px;
+    left: 110px;
+    font-size: 25px;
+}
+.ipp{
+    width: 50px;
+    position: relative;
+    bottom: 960px;
+    left: 50px;  
+}
+.ippp{
+    color: grey;
+    position: relative;
+    bottom: 930px;
+    left: 110px;
+    font-size: 25px;
+}
+.ippp2{
+    width: 50px;
+    position: relative;
+    bottom: 999px;
+    left: 50px;  
+}  
+.op5{
+    color: grey;
+    position: relative;
+    bottom: 990px;
+    left: 99px;
+    font-size: 25px;
+}
+.op1{
+    width: 50px;
+    position: relative;
+    bottom: 1050px;
+    left: 50px;  
+}  
+.div8{
+   background-image: url("../shutterstock_280369721.jpeg");
+   background-repeat: no-repeat;
+    
+    
+}
+.div9{
+    height: 200vh;
+}
+.up{
+ text-align: center;
+ font-size: 50px;
+ position: relative;
+ top: 50px;
+ background-color: aliceblue;
+ color: #0a0a2e;
+}
+.upp{
+    text-align: center;
+    color: #0a0a2e;
+    position: relative;
+    top: 30px;
+    font-size: 30px;
+}
+.pic1{
+    width: 450px;
+    position: relative;
+    left: 60px;
+    top: 30px;
+}
+.pic2{
+    width: 450px;
+    position: relative;
+    left: 130px;
+    top:30px ;
+}
+.pic3{
+    width: 450px;
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+.ti{
+    font-size: 30px;
+    padding: 10px;
+    position: relative;
+    left: 140px;
+    color: #0a0a2e;
+}
+.tii{
+   
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+    right: 580px;
+    text-align: center;
+    color: grey;
+    font-family: ;   
+}
+.tu{
+    text-align: center;
+    font-size: 30px;
+    color: #0a0a2e;
+    position: relative;
+    bottom: 169px;
+    right: 30px;
+}
+.tu1{
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+    right: 20px;
+    font-size: 20px;
+    color: grey;
+}
+.ty{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 330px;
+    left: 500px;
+}
+.ty1{
+    text-align: center;
+    position: relative;
+    bottom: 360px;
+    left: 500px;
+    font-size: 20px;
+    color: grey;  
+}
+.pic4{
+    width: 450px;
+    position: relative;
+    bottom: 350px;
+    margin: 60px;
+}
+.pic5{
+    width: 450px;
+    position: relative;
+    bottom: 397px;
+    margin: 10px;  
+}
+.pic6{
+    width: 450px;
+    position: relative;
+    bottom: 350px;
+    margin: 60px; 
+}
+.tw{
+    font-size: 30px;
+    color: #0a0a2e;
+    position: relative;
+    bottom: 430px;
+    left: 137px;
+}
+.tw1{
+    font-size: 20px;
+    position: relative;
+    bottom: 455px;
+    right: 585px;
+    text-align: center;
+    color: grey;   
+}
+.we{
+    font-size: 30px;
+    color: #0a0a2e;
+    position: relative;
+    bottom: 585px;
+    left: 700px;  
+}
+.we1{
+    text-align: center;
+    position: relative;
+    bottom: 610px;
+    right: 30px;
+    font-size: 20px;
+    color: grey;
+}  
+.qi{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 750px;
+    left: 500px; 
+}
+.qi1{
+    text-align: center;
+    position: relative;
+    bottom: 780px;
+    left: 500px;
+    font-size: 20px;
+    color: grey;    
+}
+.button3{
+    background-color: burlywood;
+    color: white;
+    padding: 20px 30px 20px 30px;
+    border-color: white;
+    position: relative;
+    bottom: 700px;
+}
+.button3:hover{
+    background-color: white;
+    color: black;
+}
+.mid{
+    background-image: url("../shutterstock_277750193.jpeg");
+    background-repeat: no-repeat;
+}
+.icccon{
+    vertical-align: middle;
+    position: relative;
+    bottom: 900px;
+    left: 800px;
+    width: 60px;
+}
+.mid{
+    height: 100vh;
+    background-image: url("../shutterstock_277750193.jpeg");
+    background-repeat: no-repeat;
+}
+.mid1{
+    color:white;
+    font-size: 50px;
+    position: relative;
+    bottom: 900px;
+    left: 670px;
+}
+.mid2{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 900px;
+    color: white;
+
+}
+.mid3{
+    font-size: 30px;
+    text-align: center;
+    margin: -870px;
+    color: white;
+    margin: -880px;
+}
+.mid4{
+    font-size: 20px;
+    text-align: center;
+    margin: 780px;
+    position: relative;
+    top: 120px;
+    color: grey;
+}
+.map{
+    height: 100vh;
+}
+.pp{
+    font-size: 50px;
+    color: #0a0a2e;
+     margin: 400px;
+     position: relative;
+     right: 300px;
+}
+.nt{
+    
+    font-size: 22px;
+    color: grey;
+    position: relative;
+    bottom: 400px;
+    left: 100px; 
+}
+.tp{
+    font-size:25px ;
+    position: relative;
+    
+    bottom: 350px;
+    left: 100px;  
+}
+.ico{
+    font-size: 20px;
+    position: relative;
+    bottom: 300px;
+    left: 60px;
+    color: grey;
+    padding: 20px;
+}
+.last{
+    height: 100vh;
+   background-color:#403d38;
+   
+}
+.tex{
+    padding: 130px;
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+}
+.top{
+   font-size: 20px; 
+   position: relative;
+   bottom: 150px;
+   left: 100px;
+   color:grey;
+}
+.oi{
+    display: block;
+    position: relative;
+    bottom: 430px;
+    right: 520px;
+    padding: 10px;
+    font-size: 5px;
+    color: grey;  
+}
+.op{
+    text-align: center;
+  position: relative; 
+  bottom: 590px;
+  display: block;
+  padding: 20px;
+  left: 120px;
+}
+.laast{
+    height: 100vh;
+    background-color: #353330;
+}
+.final{
+    position: relative;
+    top: 200px;
+    left: 600px;
+    width: 500px;
+}
+.finall{
+    font-size: 20px;
+    color: grey;
+    margin: 200px;
+    text-align: center;
+}
+.im{
+    position: relative;
+    left: 700px;
+    bottom: 170px;
+    width: 70px;
+}
+.imm{
+    position: relative;
+    left: 730px;
+    bottom: 170px;
+    width: 70px;   
+}
+.r{
+    position: relative;
+    left: 760px;
+    bottom: 170px;
+    width: 70px;
+}
+iframe{
+    position: relative;
+    bottom: 700px;
+    left: 900px;
+    width: 700px;
+    
+}
+
+
+
+
+
+
+
+
